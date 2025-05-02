@@ -1,0 +1,7 @@
+flask
+gunicorn
+gdown
+langchain-google-genai
+llama-index
+llama-index-embeddings-huggingface
+requests
